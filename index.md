@@ -1,16 +1,14 @@
 [Hello World!](examples/hello_world)
 
-Expressions
-
 Variables
 
 Values
 
-For Loop
+Expressions
 
 Conditionals
 
-Types
+Loops
 
 Classes
 
@@ -18,7 +16,7 @@ Methods
 
 Objects
 
-Apply
+apply
 
 Case Classes
 
@@ -38,7 +36,7 @@ Collections
 
 Functional Combinators
 
-For Comprehensions
+List Comprehensions
 
 Exceptions
 
