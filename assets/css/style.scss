@@ -2,6 +2,9 @@
 ---
 
 @import "{{ site.theme }}";
+section {
+  width: 770px;
+}
 .left {
   width: 245px;
   float: left;
