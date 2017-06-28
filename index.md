@@ -36,7 +36,7 @@ Collections
 
 Functional Combinators
 
-List Comprehensions
+For Comprehensions
 
 Exceptions
 
