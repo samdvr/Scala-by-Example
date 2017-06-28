@@ -4,22 +4,12 @@
 @import "{{ site.theme }}";
 section {
   float: left;
-  width: 770px;
+  width: 100%;
 }
 .highlighter-rouge {
-  width: 380px;
+  width: 60%;
 }
 
 footer {
   position: initial;
-}
-.left {
-  width: 245px;
-  float: left;
-}
-.right {
-  margin-left: 245px;
-}
-.clear {
-  clear: both;
 }
