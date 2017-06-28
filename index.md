@@ -1,4 +1,4 @@
-## Scala by Example
+## Content
 
 Hello World!
 
