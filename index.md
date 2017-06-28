@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+## Scala by Example
 
-You can use the [editor on GitHub](https://github.com/samdvr/scalabyexample/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+** Hello World! **
+Expressions
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Variables
 
-### Markdown
+Values
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+For Loop
 
-```markdown
-Syntax highlighted code block
+Conditionals
 
-# Header 1
-## Header 2
-### Header 3
+Types
 
-- Bulleted
-- List
+Classes
 
-1. Numbered
-2. List
+Methods
 
-**Bold** and _Italic_ and `Code` text
+Objects
 
-[Link](url) and ![Image](src)
-```
+Apply
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Case Classes
 
-### Jekyll Themes
+Functions
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/samdvr/scalabyexample/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Inheritance
 
-### Support or Contact
+Traits
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Type Parameterization
+
+Algebraic Data Types
+
+Pattern Matching
+
+Collections
+
+Functional Combinators
+
+For Comprehensions
+
+Exceptions
+
+Option
+
+Either
+
+Try
+
+Future
+
+Typeclasses
