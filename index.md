@@ -1,6 +1,7 @@
 ## Scala by Example
 
 Hello World!
+
 Expressions
 
 Variables
