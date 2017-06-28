@@ -1,8 +1,7 @@
-<div class="left">
-### Hello World
-</div>
 
-<div class="right">
+### Hello World
+
+
 ```scala
 object HelloWorld {
   def main(args: Array[String]): Unit = {
@@ -10,6 +9,3 @@ object HelloWorld {
   }
 }
 ```
-</div>
-
-<div class="clear"></div>
