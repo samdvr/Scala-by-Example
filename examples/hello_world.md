@@ -1,22 +1,25 @@
 
 
-<div class="begin-examples"></div>
+<div class="left">
+  ### Hello World
+</div>
 
-### Hello World
-
-
-```scala
-object HelloWorld {
-  def main(args: Array[String]): Unit = {
-    println("Hello, world!")
+<div class="right">
+  ```scala
+  object HelloWorld {
+    def main(args: Array[String]): Unit = {
+      println("Hello, world!")
+    }
   }
-}
-```
+  ```
+</div>
 
+<div class="left">
+  More text explaining code block 2
+</div>
 
-More text explaining code block 2
-
-```
-code block 2
-```
-<div class="end-examples"></div>
+<div class="right">
+  ```
+  code block 2
+  ```
+</div>
