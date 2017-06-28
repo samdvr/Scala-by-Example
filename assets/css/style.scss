@@ -3,12 +3,16 @@
 
 @import "{{ site.theme }}";
 section {
+  float: left;
   width: 770px;
 }
 .highlighter-rouge {
   width: 380px;
 }
 
+footer {
+  position: initial;
+}
 .left {
   width: 245px;
   float: left;
