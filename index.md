@@ -1,5 +1,3 @@
-## Content
-
 [Hello World!](examples/hello_world)
 
 Expressions
