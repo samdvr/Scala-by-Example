@@ -4,7 +4,7 @@
 
 [Values](examples/values)
 
-Expressions
+[Expressions](examples/expressions)
 
 Conditionals
 
