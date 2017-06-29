@@ -1,6 +1,6 @@
 [Hello World!](examples/hello_world)
 
-Variables
+[Variables](examples/variables)
 
 Values
 
