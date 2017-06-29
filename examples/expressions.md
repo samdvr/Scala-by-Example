@@ -11,7 +11,7 @@ val squared = myNumber * myNumber
 ```
 
 The value of squared has been evaluated after executing the expression
-```
+```Scala
 myNumber * myNumber
 ```
 
@@ -27,7 +27,6 @@ Expressions can have many lines. The value of the last line is returned as the r
 val cubeIsGreaterThanTen: Boolean = {
   val cubed = myNumber * myNumber * myNumber
   cubed > 10
-
 }
 
 ```
