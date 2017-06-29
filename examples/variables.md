@@ -11,7 +11,7 @@ name: String = Sherlock
 ```
 
 
-Notice that the type of variables are declared after the variable name seprated by a colon mark.
+Notice that the type of variables is declared after the variable name separated by a colon mark.
 
 Another way to declare variables:
 
