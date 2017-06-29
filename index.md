@@ -2,7 +2,7 @@
 
 [Variables](examples/variables)
 
-Values
+[Values](examples/values)
 
 Expressions
 
