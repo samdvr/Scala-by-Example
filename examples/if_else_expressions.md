@@ -1,6 +1,6 @@
 ### If/Else Expressions
 
-The basic structure of if/else conditionals in Scala is:
+The basic structure of if/else expressions in Scala is:
 
 ```scala
 if (condition) {
@@ -22,8 +22,14 @@ val max = if (x > y) {
   }
 
 ```
+Result:
+
+```scala
+max: Int = 30
+```
 Because the conditionals are expression in Scala it is possible to assign them
 to values.
+
 Each branch of the condition and also the condition x > y is also an expression.
 We can omit curly braces for expressions with one line.
 
