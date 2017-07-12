@@ -2,11 +2,11 @@
 
 Variables are defined using the 'var' keyword:
 
-```Scala
+```scala
 var name: String = "Sherlock"
 ```
 Result:
-```Scala
+```scala
 name: String = Sherlock
 ```
 
@@ -15,19 +15,16 @@ Notice that the type of variables is declared after the variable name separated 
 
 Another way to declare variables:
 
-```Scala
+```scala
 var name = "John"
 ```
 
 Result:
-```Scala
+```scala
 name: String = John
 ```
 
 Scala can infer the types in most cases so it is not necessary to declare variable types explicity.
 
 Moreover, as you saw the data of variables can change.
-In the second statement we changed the data of variable name to "John". Variables in Scala are mutable. 
-
-
-
+In the second statement we changed the data of variable name to "John". Variables in Scala are mutable.

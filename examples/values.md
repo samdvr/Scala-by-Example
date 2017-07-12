@@ -2,11 +2,11 @@
 
 Values are defined using the 'val' keyword:
 
-```Scala
+```scala
 val name: String = "Sherlock"
 ```
 Result:
-```Scala
+```scala
 name: String = Sherlock
 ```
 
@@ -14,10 +14,10 @@ name: String = Sherlock
 Unlike Variables in Scala, Values cannot change once declared.
 Reassignment of values will cause a compile time error.
 
-```Scala
+```scala
 name = "John"
 error: reassignment to val
-       name = "John" 
+       name = "John"
 ```
 
 Hence, Values in Scala are immutable.
