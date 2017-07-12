@@ -6,7 +6,7 @@
 
 [Expressions](examples/expressions)
 
-[If/Else Expressions](examples/conditionals)
+[If/Else Expressions](examples/if_else_expressions)
 
 Loops
 
