@@ -8,8 +8,6 @@
 
 [If/Else Expressions](examples/if_else_expressions)
 
-Loops
-
 Classes
 
 Methods
@@ -21,8 +19,6 @@ apply
 Case Classes
 
 Functions
-
-Inheritance
 
 Traits
 
