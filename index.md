@@ -8,7 +8,7 @@
 
 [If/Else Expressions](examples/if_else_expressions)
 
-Classes
+[Classes](examples/classes)
 
 Methods
 
