@@ -20,7 +20,6 @@ val myBook = new Book("Sherlock Holmes", "Arthur Conan Doyle")
 
 myBook.title
 
-Sherlock Holmes by Arthur Conan Doyle
 ```
 
 Result:
