@@ -1,8 +1,8 @@
-# Classes
+### Classes
 
 Classes are a blueprint for creating objects. 
 
-## Defining a Class
+#### Defining a Class
 
 ```scala
 class Book(name: String, author: String) {
@@ -11,7 +11,7 @@ class Book(name: String, author: String) {
 
 ```
 
-## Creating an Object
+#### Creating an Object
 
 Object Instantiation is done using the new keyword
 
